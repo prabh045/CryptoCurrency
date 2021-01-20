@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5B72A329-9BA0-43A7-AF57-D41E7FF91907"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5491B6D5-B544-464D-B2B3-F604EBA9FFC3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrency/Presentation/CoinListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchCoins()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5491B6D5-B544-464D-B2B3-F604EBA9FFC3 - f3b5535be5533a35"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (CryptoCurrency.CoinDTO) -&gt; () in CryptoCurrency.CoinListViewModel.fetchCoins() -&gt; ()"
+                  moduleName = "CryptoCurrency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhdeepsingh/Documents/xcodeSwiftUI/CryptoCurrency/CryptoCurrency/Presentation/CoinListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "5491B6D5-B544-464D-B2B3-F604EBA9FFC3 - 8677e2830fdac5ff"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CryptoCurrency.CoinModel) -&gt; CryptoCurrency.CoinViewModel in closure #2 (CryptoCurrency.CoinDTO) -&gt; () in CryptoCurrency.CoinListViewModel.fetchCoins() -&gt; ()"
+                  moduleName = "CryptoCurrency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhdeepsingh/Documents/xcodeSwiftUI/CryptoCurrency/CryptoCurrency/Presentation/CoinListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
